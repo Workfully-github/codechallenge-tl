@@ -7,7 +7,7 @@ Using NestJS, build web with a chatbot-like interface where you can upload multi
 - Find all candidates with *x* experience
 
 ## Tech Requirements
-- Typescript
+- NestJS & Typescript
 - AWS Bedrock
 - Straightforward setup and execution (ie: Docker Compose)
 
