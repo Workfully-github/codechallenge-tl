@@ -1,7 +1,7 @@
 # Code Challenge TL
 Using NestJS, build web with a chatbot-like interface where you can upload multiple CVs and make questions about them.
 
-## Examples of Questions to Answer
+## Examples Questions
 - Find candidates that match *this* job description
 - Compare these two candidates against job requirements
 - Find all candidates with *x* experience
